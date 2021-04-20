@@ -14,8 +14,6 @@ You can play the Javascript Tetris [game](https://githubschool.github.io/github-
 
 ## Items to Reference
 
-Download the official installer for your operating system:
-
  - [Javascript Tetris](https://github.com/jakesgordon/javascript-tetris)
  - *SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+
  
