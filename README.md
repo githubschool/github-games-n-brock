@@ -1,11 +1,15 @@
 # [Welcome to GitHub Games](https://desktop.github.com)
 
-This is a project based learning activity for people who are getting started with Git and GitHub. [Electron](https://electron.atom.io)-based
-You can play the [game](https://githubschool.github.io/github-games-n-brock) and
+This is a project based learning activity for people who are getting started with Git and GitHub.
+You can play the Javascript Tetris [game](https://githubschool.github.io/github-games-n-brock).
 
 ![GitHub Desktop screenshot - Windows](https://cloud.githubusercontent.com/assets/359239/26094502/a1f56d02-3a5d-11e7-8799-23c7ba5e5106.png)
 
-## Items to Reference
+## What we did in the training
+
+Downloa
+
+### Items to Reference
 
 Download the official installer for your operating system:
 
