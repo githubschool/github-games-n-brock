@@ -7,10 +7,10 @@ You can play the Javascript Tetris [game](https://githubschool.github.io/github-
 
 ## Takeaways from GitHub training for Non-developers
 
-Learned about the differences between Git and GitHub and how they work together
-Ins-and-Outs of GitHub GUI (website / desktop)
-Hands-on activities, creating pull-requests, new branches, merging and 
-Diving into reverts and other project management scenarios/interactions
+ - Learned about the differences between Git and GitHub and how they work together
+ - Ins-and-Outs of GitHub GUI (website / desktop)
+ - Hands-on activities, creating pull-requests, new branches, merging and 
+ - Diving into reverts and other project management scenarios/interactions
 
 ## Items to Reference
 
