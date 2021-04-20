@@ -5,11 +5,14 @@ You can play the Javascript Tetris [game](https://githubschool.github.io/github-
 
 ![GitHub Desktop screenshot - Windows](https://cloud.githubusercontent.com/assets/359239/26094502/a1f56d02-3a5d-11e7-8799-23c7ba5e5106.png)
 
-## What we did in the training
+## Takeaways from GitHub training for Non-developers
 
-Downloa
+Learned about the differences between Git and GitHub and how they work together
+Ins-and-Outs of GitHub GUI (website / desktop)
+Hands-on activities, creating pull-requests, new branches, merging and 
+Diving into reverts and other project management scenarios/interactions
 
-### Items to Reference
+## Items to Reference
 
 Download the official installer for your operating system:
 
